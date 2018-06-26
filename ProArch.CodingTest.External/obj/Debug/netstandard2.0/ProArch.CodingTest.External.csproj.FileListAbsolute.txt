@@ -1,0 +1,8 @@
+C:\Hari\Personal\Interview\CodingTest\CodingTest\ProArch.CodingTest.External\bin\Debug\netstandard2.0\ProArch.CodingTest.External.deps.json
+C:\Hari\Personal\Interview\CodingTest\CodingTest\ProArch.CodingTest.External\bin\Debug\netstandard2.0\ProArch.CodingTest.External.dll
+C:\Hari\Personal\Interview\CodingTest\CodingTest\ProArch.CodingTest.External\bin\Debug\netstandard2.0\ProArch.CodingTest.External.pdb
+C:\Hari\Personal\Interview\CodingTest\CodingTest\ProArch.CodingTest.External\obj\Debug\netstandard2.0\ProArch.CodingTest.External.csproj.CoreCompileInputs.cache
+C:\Hari\Personal\Interview\CodingTest\CodingTest\ProArch.CodingTest.External\obj\Debug\netstandard2.0\ProArch.CodingTest.External.AssemblyInfoInputs.cache
+C:\Hari\Personal\Interview\CodingTest\CodingTest\ProArch.CodingTest.External\obj\Debug\netstandard2.0\ProArch.CodingTest.External.AssemblyInfo.cs
+C:\Hari\Personal\Interview\CodingTest\CodingTest\ProArch.CodingTest.External\obj\Debug\netstandard2.0\ProArch.CodingTest.External.dll
+C:\Hari\Personal\Interview\CodingTest\CodingTest\ProArch.CodingTest.External\obj\Debug\netstandard2.0\ProArch.CodingTest.External.pdb

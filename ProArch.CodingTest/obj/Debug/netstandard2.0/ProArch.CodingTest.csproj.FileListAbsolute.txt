@@ -1,0 +1,12 @@
+C:\Hari\Personal\Interview\CodingTest\CodingTest\ProArch.CodingTest\bin\Debug\netstandard2.0\ProArch.CodingTest.deps.json
+C:\Hari\Personal\Interview\CodingTest\CodingTest\ProArch.CodingTest\bin\Debug\netstandard2.0\ProArch.CodingTest.dll
+C:\Hari\Personal\Interview\CodingTest\CodingTest\ProArch.CodingTest\bin\Debug\netstandard2.0\ProArch.CodingTest.pdb
+C:\Hari\Personal\Interview\CodingTest\CodingTest\ProArch.CodingTest\bin\Debug\netstandard2.0\ProArch.CodingTest.External.dll
+C:\Hari\Personal\Interview\CodingTest\CodingTest\ProArch.CodingTest\bin\Debug\netstandard2.0\ProArch.CodingTest.External.pdb
+C:\Hari\Personal\Interview\CodingTest\CodingTest\ProArch.CodingTest\obj\Debug\netstandard2.0\ProArch.CodingTest.csprojAssemblyReference.cache
+C:\Hari\Personal\Interview\CodingTest\CodingTest\ProArch.CodingTest\obj\Debug\netstandard2.0\ProArch.CodingTest.csproj.CoreCompileInputs.cache
+C:\Hari\Personal\Interview\CodingTest\CodingTest\ProArch.CodingTest\obj\Debug\netstandard2.0\ProArch.CodingTest.AssemblyInfoInputs.cache
+C:\Hari\Personal\Interview\CodingTest\CodingTest\ProArch.CodingTest\obj\Debug\netstandard2.0\ProArch.CodingTest.AssemblyInfo.cs
+C:\Hari\Personal\Interview\CodingTest\CodingTest\ProArch.CodingTest\obj\Debug\netstandard2.0\ProArch.CodingTest.csproj.CopyComplete
+C:\Hari\Personal\Interview\CodingTest\CodingTest\ProArch.CodingTest\obj\Debug\netstandard2.0\ProArch.CodingTest.dll
+C:\Hari\Personal\Interview\CodingTest\CodingTest\ProArch.CodingTest\obj\Debug\netstandard2.0\ProArch.CodingTest.pdb
